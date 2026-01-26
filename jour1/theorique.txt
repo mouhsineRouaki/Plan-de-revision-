@@ -1,0 +1,6 @@
+1-Qu'est-ce qu'une classe dans un diagramme de classes ?
+dans diagramme de class , une classe represente un modele ou un plan de types des objets de systeme .
+il decrit pour avoir les avoir c'quil va faire 
+2-. Pourquoi est-il problématique d'avoir des classes sans méthodes ?
+un class sans des methodes souvent plusiers probleme par exemple encapsulation sera casse et la logique va dispresser 
+3-Expliquer le principe de responsabilité unique
