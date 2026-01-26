@@ -4,3 +4,5 @@ il decrit pour avoir les avoir c'quil va faire
 2-. Pourquoi est-il problématique d'avoir des classes sans méthodes ?
 un class sans des methodes souvent plusiers probleme par exemple encapsulation sera casse et la logique va dispresser 
 3-Expliquer le principe de responsabilité unique
+une class ou modele ou fonction il doit avoir seul raison pour changer 
+autrement dit il doit faire une seul choose  , et bien faire 
