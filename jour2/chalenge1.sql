@@ -9,4 +9,6 @@ create table Produits(
 Insert into Produits values ('phone' , 200.00 , 100) , ('phone' , 200.00 , 100) ,('phone' , 200.00 , 100) 
 //chalenge 3 
 
-update Produits set prix = prix * 1.10 where nom = 'phone '
+update Produits set prix = prix * 1.10 where nom = 'phone'
+
+
