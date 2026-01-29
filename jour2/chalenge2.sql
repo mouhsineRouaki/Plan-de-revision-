@@ -1,0 +1,1 @@
+Insert into Produits values ('phone' , 200.00 , 100) , ('phone' , 200.00 , 100) ,('phone' , 200.00 , 100) 

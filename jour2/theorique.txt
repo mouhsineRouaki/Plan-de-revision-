@@ -1,0 +1,4 @@
+1-la difference entre ddl et dml 
+le ddl (data definition language) cest la definition de structure des donnes et le dml (data manipulation language) cest pour la manipulation des donner dans les table
+2-cle primaire cest un colone dans un table il doit etre non null qui identifier le row dans un table , il est unique (ne pas repeter dans un table )
+3- pour filtrer with clause where , en parcours a chaque row dans un table et verifier si le row ou bien des colones dans ce row est respecter le condition dans le clause where si respecter on returner le selection si non il va ignorer et passer a lautre row 

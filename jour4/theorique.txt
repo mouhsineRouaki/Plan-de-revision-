@@ -1,0 +1,8 @@
+1-
+la classe cest un plan ou un definition de structure des objet 
+les objet cest choose relle construit a ce class 
+les class est un model qui definit les attribut et les method mais lobjet cest linstantiation de ce class pour construit reel et permet de utiliser les attributs et les methodes 
+2- 
+$this utiliser pour refererencer a l'objet courent pour acceder a les methodes et les attributes de ce objet
+3-
+__construnt un method magique il appeler lors le creation de objet  le role cest de remplir les attribut ou bien initialise les attriburs de lobjet

@@ -1,0 +1,8 @@
+1 - 
+count serve a calculer le nombre des row ou colone specifique dun table 
+sum serve a calculer la somme des colones dun table 
+avg serve a calculer la moyenne du collone  
+2 -  
+count(*) permet de counter tous les lignes sans exception contre count(colone) il counte seulement les ligne qu'il na pas null 
+3- oui min et max travailler sur les dates et les chaine de caracatere 
+parce que les deux function il comparer les date dune maniere chronologique et les chaine de charactere dune maniere lexographique 
