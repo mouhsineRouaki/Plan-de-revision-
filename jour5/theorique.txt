@@ -1,0 +1,9 @@
+1-
+lencabsulation sert a proteger les donnees entre les class a de ne pas acceder a des donnees sensible depuis des class files ou linferieur de la class 
+2-
+le mot public permet a acceder a la proprietes ou la method a linterieur et linferieure de la class contre le mot private il se faire un protection complete il empeche a acceder depuis linferieure de la class 
+il donne la permission a acceder acette propriete a linterieur de la class meme si les class fille ne pas la permission de acceder
+mais le mot protected comme private mais les class filles il peut acceder a ce propriete 
+3-
+les getters et setters ces la solutions de lencabsulation il permet de acceder a cette proprite est faire des modification ou recuperation 
+il est nesessaire pour protected et private mais il na pas nesessaire pour public parce il peut acceder l inferieur de la class sont nesessite de getters ou setters   
