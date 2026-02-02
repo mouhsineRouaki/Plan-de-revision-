@@ -1,0 +1,16 @@
+1-
+une composition cest relations fort entre le composant et le composer , le composant ne pas exister sans le composer , si lobjet parent detruit meme lobjet sera detruit par exemple en a batiment et etages si la batiment detruit les etages va detruit 
+une agregation cest relations faible entre le composant et le composer , le composant il peut exister meme si le compose ne pas exist 
+2- 
+cardinalite(mulitiplicite) 1..* dans deux table 
+par exemple en etudiant et cours on dit que letudiant il ya aux moins un seul cours et cours il ya aux moins un etudiant 
+3- 
+classs assosiative cest une classe qui decrit la relations entre deux autres class on utilise quant le pivot contient des attributes qui ne peuvent appartenir ni a lun ni a lautre 
+
+//chalenge 1 
+la relations cest la composition parce que les pieces va disparait lors detruit de maison on dit que les pieces depant a la maison 
+//chalenge 2 
+Etudiant 0..* _________ 0..* cours
+//chalenge 3 
+lerreur cest que la composition obliger de faire une relation forte entre le composant et le compose 
+la corection cest de fait une assosiation 
